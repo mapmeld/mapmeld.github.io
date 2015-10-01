@@ -1,0 +1,81 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+  margin: 30px;
+  font-size: 13pt;
+  padding-bottom: 220px;
+}
+.hero-unit{
+  background-color:#8CF;
+}
+h1, h2, h3, h4{
+  font-family: 'Noto Sans', sans-serif;
+}
+h2{
+  background-color: #8CF;
+  padding: 10px;
+  font-weight: bold;
+}
+.project h3{
+  margin-top:30px;
+  margin-bottom:30px;
+}
+.projectlist h3{
+  margin-top:30px;
+  margin-bottom:30px;
+}
+.project img{
+  width: 800px;
+}
+.projectlist img{
+  width: 800px;
+}
+#navpack {
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+#navpack li {
+  display: inline-block;
+  padding: 8px;
+}
+#navpack li a {
+  text-decoration: none;
+}
+#navpack li a:hover {
+  text-decoration: underline;
+}
+.span8 h3{
+  margin-top:-8px;
+}
+.pulls li{
+  margin-bottom: 8px;
+}
+.clearfix {
+  display: block;
+  clear: both;
+}
+
+.expimage {
+  float: left;
+  max-width: 40%;
+  margin: 10px 5% 10px 0;
+}
+
+.halfimage {
+  float: left;
+  max-width: 45%;
+  margin: 10px 2.5% 10px 2.5%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.mapset {
+  max-width: 500px;
+  display: inline;
+}
+
+.mapset img {
+  width: 220px;
+}

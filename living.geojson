@@ -1,0 +1,3735 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.651083,
+                    32.832577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lofts at Mercer Village",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Housing during February 2012, with Code for America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.635676,
+                    32.839176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Macon Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a few days of June 2012, during my first return to Macon for Code for America"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.655632,
+                    32.826411,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hilton - Mercer University",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a weekend in June 2012, during Code for America. I remember that I was recovering from sunburns after tubing down the Ocmulgee River."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.689749,
+                    32.901876,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Travelodge North Macon",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Cheapest place around, stayed here for Code for America in parts of June, September, and November 2012. Not recommended. Fortunately has a bus into town."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.691874,
+                    32.905389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel in North Macon",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here one night while I was in Macon for Code for America in November 2012. Planned on driving to Savannah the next day... it didn't work out"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.247529,
+                    39.886953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Philadelphia Airport Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed overnight after attending the NCoC Conference in 2012, part of Code for America. Arrived early in the morning from San Francisco, continued on to Macon the next day."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.875911,
+                    40.769151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maker Faire NYC 2011",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here a few nights so I could present One Laptop per Child at Maker Faire NYC. Truly amazing."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069033,
+                    42.351503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel in Boston",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed overnight so I could catch an early Amtrak Acela train to Philadelphia in March 2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.433449,
+                    42.485343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Somewhere in Acton",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "My mom and brothers moved to a house in Massachusetts. Stayed here a few times, never long, never comfortable"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08592,
+                    42.362888,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "olpcMAP Conference",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "December 2010, I think. Worked late with friends on olpcMAP.net content and website, ended up staying overnight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.049608,
+                    38.899951,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GWU",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed with a friend from high school who is at GWU. Went to Tech @ State: Open Source conference in February 2011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.716517,
+                    41.967691,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MongoDB Conf - Chicago",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed in Chicago for a few days in Nov 2012, expecting to do an interview and a conference. Went to conference and Open Gov Hack Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.621074,
+                    41.830976,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb - Bronzville",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for the first two weeks when I worked with DataMade. April 2013."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632875,
+                    41.852221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chinatown Hotel, Chicago",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a day of April 2013, while working for DataMade, came back later to live here for a week. Also for interview in August 2013 and a couple of days of starting the job in October 2013."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.670469,
+                    42.001569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb Rogers Park, Chicago",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a week while working for DataMade in April 2013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.83565,
+                    41.981729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holiday Inn O'Hare (2)",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "The place where I was supposed to stay two nights, but accidentally went to the wrong Holiday Inn O'Hare the first night. April or May 2013. Still good, breakfast good."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.88157000000001,
+                    41.996913000000006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holiday Inn O'Hare (1)",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Went to the wrong Holiday Inn O'Hare for a day in April or May 2013. Got a cool room, great breakfast. No regrets."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65668899999999,
+                    45.547957,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "State of the Map US (2012)",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Hostel somewhere in Portland. OpenStreetMap / State of the Map conference in September 2012, I think. It rained every day."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38288900000002,
+                    47.666457,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ballard Inn, Seattle",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a few days of April 2013 while interviewing with a company in Seattle. Got some nice weather and photos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31139200000001,
+                    47.607725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seattle Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a few days of May 2013 while interviewing with a company in Seattle. Less-nice weather, visited a couple of the islands to the west"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.85760499999999,
+                    36.596166,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monterey Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Got an airport shuttle down to Monterey and stayed here for part of August 2012, sort of a vacation from Code for America. I remember working on some graph database stuff, though."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.03660500000001,
+                    36.967895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Santa Cruz Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "I don't remember where, but this was a great Airbnb. I stayed in a DIY hippie bungalow in the backyard, the owner lived in a train car, and I got to climb up to see a treehouse. March 2013."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.212448,
+                    34.065459,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Good Nite Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Go-to cheap motel in Redlands. Stayed here as an intern in summer 2011, came back as a Code for America fellow in 2012."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.198801,
+                    34.059984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cheap Motel, Redlands",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Never go here. Made a mistake of staying in one of these places in summer 2011, as an intern between rooms. Everything else was booked due to prom or something."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.274632,
+                    34.051308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loma Linda",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for most of my time as an ESRI intern in summer 2011. Got on StreetView."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.655406,
+                    41.947586,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wrigleyville",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Crashed at a friend of a friend's place overnight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.827144,
+                    21.280377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Waikiki",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Caught some sleep here on my way out to the Marshall Islands in December 2012. It was close to Christmas, lots of Hawai'ian Christmas songs. So tired. So weird."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.556664,
+                    7.061115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arno",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for Christmas Eve, Christmas, and a few extra days in 2012. Power and water, but no radio, TV, phones, or anything."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.373694,
+                    7.086583,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marshall Islands Resort",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "First place where I stayed when I arrived in December 2012. Came back a few times for lunch and WiFi."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.372256,
+                    7.085221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Majuro Apartment",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Lived here December 2012 - March 2013 while working with the Ministry of Education in the Marshall Islands. Former brothel. Still shady."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.281456,
+                    18.572874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grassroots United, Haiti",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Somewhere near the Port-au-Prince airport, a commune of aid workers, Haitian trainees, and dreamers. There was also typhoid. I heard that it changed its name and almost burned down. Visited a few times in fall 2011."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.226181,
+                    18.574908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Croix-des-Bouquets, Haiti",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Rough location of my school in Haiti, while working with One Laptop per Child. Sept-Nov 2011 and a week of March 2012."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.287121,
+                    18.510377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Junior's House",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Somewhere in Port-au-Prince, stayed a few times, cooked good food, took bucket showers in fall 2012."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.010746,
+                    19.144195,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hinche, Haiti",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed with mapping group while we met with a major NGO covering central / northern Haiti. Fall 2011."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.165886,
+                    -34.916974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hostel 1, Montevideo",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "My first hostel, my first place in Montevideo while I was working with Plan Ceibal. Stayed here for a week or so of March 2011, came back for a bizarre sushi place in the neighborhood."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.152325,
+                    -34.918311,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pocitos Hostel, Uruguay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here a few times during March-May 2011 while I was working with Plan Ceibal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.067996,
+                    -34.898779,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carrasco, Uruguay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here a couple of times, covering about half of my time working with Plan Ceibal in Uruguay. March-May 2011."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.162598,
+                    -34.657216,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Paloma, Uruguay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here during La Semana Santa, a week-long vacation in April 2011. Also traveled to Rocha (the district capital) and La Pedrera. Dulce de leche ice cream."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.834090999999994,
+                    -34.463542,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Colonia, Uruguay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a few days as an adventure during April or May 2011. Went geocaching, almost got lost, came back to the hostel very late. Very beautiful place to explore, see Argentina, etc."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.522942,
+                    -33.369245,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Durazno, Uruguay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed in Durazno overnight in May 2011 while I was on my way to Paso de los Toros. Dreary and rainy when I visited, unfortunately."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41258600000002,
+                    37.623206,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Bruno Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a bunch of times in 2012 (starting when I returned from Haiti in March) and again when I returned form the Marshall Islands (March 2013). Cheapest price around, food to eat, Caltrain and BART access, though it's far from the city."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.938316,
+                    39.735706,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb 1, State of the Map",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "First time in an Airbnb, while attending State of the Map (int'l) in September 2011."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.158289,
+                    32.704797,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Esri UC, 2012",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "I attended the Esri UC in 2011, but only on a day trip from Redlands. In 2012, I spent most of the week at a hotel in San Diego. Didn't go far, only ate at a few downtown restaurants."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.06414000000001,
+                    43.086943,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Niagara Falls",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Visited Niagara Falls for the first time, with friends and family, in March or April 2013. I brought my passport, so I took a day trip to Canada."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.142563,
+                    37.423480000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palo Alto Travelodge",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Came back to SF late once in September 2012, didn't know where to go, decided to visit Palo Alto for a few days. Went well."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.098961,
+                    37.39423200000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Google Geo for Good",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "I forget where, but I found a motel a short walk from the official Google conference hotel. Stayed here with a co-worker in September 2012."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.431641,
+                    37.730505,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glen Park",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here in January and March 2012 when I was first starting with Code for America and my own Airbnb adventures. Came back Nov 2015."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.28392600000001,
+                    37.832565,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Emeryville",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "My second month-long Airbnb stay, probably in April 2012, during Code for America."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.269936,
+                    37.803749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clarion Hotel, Oakland",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Cheapest place around, but good. Stayed here several times in late 2012 during Code for America, including Election Day. Also 2015 when I first came back from Myanmar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26019400000001,
+                    37.803138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lake Merritt",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "House-sat at a co-worker's place in May 2012, during Code for America."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31774300000001,
+                    37.863403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boat, Berkeley Marina",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a good part of October 2012, during Code for America, including the Code for America Summit."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.29401100000001,
+                    37.872956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Berkeley Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Cheapest motel, but way too cheap. There's even a sign warning that it's unsafe during earthquakes. Stayed here a few times in 2012 anyway, including during summer Olympics, and after I left SFSU place."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.286716,
+                    37.869094,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Super 8, Berkeley",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Somewhere around here. I stayed a couple of times in late 2012, and it was good. A lot better choice than Berkeley Inn."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.19408300000002,
+                    37.740771,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Motel 6, Oakland Airport",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "I stayed here for a couple of nights in November 2012, during the OLPC Summit in San Francisco. Desks behind bulletproof glass. I can't believe that I walked here from BART. Not recommended."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.445374,
+                    37.664901,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb in South San Francisco",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed for a month in an expensive, but very nice Airbnb, Summer 2012. Actual tenant was never around, always bouncing between Palo Alto and San Francisco, offered to rent me the apartment long-term at the same rate, but I couldn't accept."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.485542,
+                    37.714958,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFSU Campus Area Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here for a couple of weeks in fall 2012. Cheap, but it wasn't that great, and college kids were noisy. One day they left a BB pistol on the table, and I don't have a problem with guns, but I don't know these people. So I moved out and canceled."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26040799999998,
+                    37.820768,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb Oakland",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed here in July-August 2012, during Code for America. Shared space with Kiwi Couchsurfers, which was weird."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.38572099999999,
+                    37.614843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFO",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Don't stay overnight here. One time I forgot to plan things out."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08592,
+                    42.348871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "1st Real Apartment",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "From June until October 2013 I lived at Hereford & Newbury while working with the City of Boston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.876834,
+                    40.768517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NYC Hotel 2013",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed in 2013 during Planning Camp and Maker Faire. I thought it would be the same hotel that I stayed at in 2011, but it was a different one. Not sure what happened."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.18292,
+                    39.973108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AirBnB - Hacking",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Visited Indy Hall Coworking Space and the Philly Brigade meeting during my GeoGinger road trip. Stayed at a nice house in this neighborhood, though there was trouble checking in at first, and I had to charge my phone and call from a bulletproof laundromat at 11:30pm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.099175,
+                    38.858959,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DC Days Inn",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed in Arlington overnight on GeoGinger road trip between DC Brigade / classmate meet-up and ESRI, college meet-up, MapBox, more"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.001672,
+                    38.895074,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DC relatives",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed overnight on my GeoGinger road trip with DC relatives between OLPC meetup and traveling to NYC the next morning."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.859898,
+                    41.990246,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Comfort Inn",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed somewhere near Rosemont for the first couple days after starting at Civis Analytics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.666264,
+                    41.855882,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pilsen Airbnb",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Spent the first week of working with Civis at an Airbnb in Pilsen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.627726,
+                    41.891097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Roof Inn",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed at the Red Roof Inn for a few days in October-November 2013 while I was finalizing my apartment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.41119400000001,
+                    34.84424,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NACIS Airbnb",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed at one of the only Airbnbs in Greenville with a few other former CfA Fellows for the NACIS conference in October 2013.  Nice apartment, nice downtown, was not encouraged by the rest of the city"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26495699999998,
+                    37.861234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb in Berkeley",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed at an Airbnb in Berkeley for the 2013 Code for America Summit and the start of OLPC Summit. It was usually a kid's room."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.426834,
+                    37.765626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "OLPC Friend",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed overnight at the house of a friend in OLPC SF, during OLPC Summit 2013. Slept on a blanket because I did not bring sleeping gear."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.043257,
+                    37.37026,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Quality Inn",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Stayed overnight but only got a few hours' sleep between OLPC SF eating at Denny's and barely getting to Startup School in Cupertino in time the next morning."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.674761,
+                    41.968425,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "2nd Real Apartment",
+                "styleUrl": "#icon-61",
+                "styleHash": "2d58c1bf",
+                "styleMapHash": {
+                    "normal": "#icon-61-normal",
+                    "highlight": "#icon-61-highlight"
+                },
+                "description": "Moved in November 2013."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.084305,
+                    38.879742,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Days Inn / Pentagon",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "stayed overnight for State of the Map US in April 2014, two nights for a USAID conference Feb 2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981901,
+                    40.764405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dream Hotel",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Was booked overnight in June 2014, but due to a misunderstanding I couldn't get a room. Slept in a chair in the lobby."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.37387,
+                    24.502867,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Al Diar Capital",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "stayed overnight in April 2014 on my one day in Abu Dhabi en route to Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.68811,
+                    44.42501500000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Civis Retreat",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Civis Analytics company retreat in May 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.318043,
+                    27.671956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rabi's House",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Nepal visit in April and May 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.337248,
+                    28.162141,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Syaphru Besi",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "a couple of days of Nepal trip in 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.42119,
+                    28.158433000000002,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moonlight",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "in Rimche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.521011,
+                    28.215815000000003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Langtang",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Panorama Hotel in April 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.564871,
+                    28.212298,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kyanjin Gompa",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Nepal April 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.117935,
+                    42.382815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bernie's house",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Stayed overnight April 2014 with other OLPC people while preparing for Nepal trip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.089348,
+                    28.555576,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "In-Transit Hotel, Delhi",
+                "styleUrl": "#icon-123",
+                "styleHash": "616b427b",
+                "styleMapHash": {
+                    "normal": "#icon-123-normal",
+                    "highlight": "#icon-123-highlight"
+                },
+                "description": "Just like Snowden<br><br>In between flights on my way back from Nepal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948889,
+                    40.684739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bed-Stuy Airbnb",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "I moved here in July 2014 when I started working at MoMA. Close to Pratt, Dough, Mac Shack, Brooklyn stuff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.029827,
+                    40.762374,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Weehawken Airbnb",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Stayed here for a few nights in August 2014 when my month-long Airbnb wasn't ready yet. Huge place! Almost always empty! Took the bus from Port Authority once, and then took the ferry from then on"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.010429,
+                    40.786163,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West New York Airbnb",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Stayed here most of August 2014. Had to take my bag up the huge steps! But ended up being a great place, great view, and ferry rides to work every day."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959918,
+                    40.688806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clinton Hill Sublet",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "My first Craigslist sublet, late August- late September in 2014. Maker Faire."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.998499,
+                    40.715257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chinatown - Oct 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Stayed in Chinatown for a month! Secret rooftop access!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.926272,
+                    40.702798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bushwick - Oct 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Random overnight in Bushwick, Oct 2014<br><br>Also got to go on the roof."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.930564,
+                    40.761301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Astoria - Oct 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Stayed overnight between Airbnb and a conference"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.720685,
+                    30.265554,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keep Ruby Weird",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Attended first-ever Keep Ruby Weird conference in October 2014, Airbnb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.921294,
+                    40.82910600000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bronx",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Stayed two weeks in the Bronx with an Airbnb Oct/Nov 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958416,
+                    40.800231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upper West Side",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Apartment-sat at a friend's place for two weeks of Nov 2014! Good get"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0845871,
+                    40.6436566,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Staten Island - Nov 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "My fifth borough! A few days between the Upper West Side and Thanksgiving"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9030123,
+                    40.7446559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woodside",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Dec 2014-Jan 2015! Two month sublet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9179468,
+                    40.6983402,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bushwick - Nov/Dec 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Five days in Bushwick between Thanksgiving and RobotsConf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.111927,
+                    42.4149025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "OLPC Hack Nov 2014",
+                "styleUrl": "#icon-111-nodesc",
+                "styleHash": "-2726be8f",
+                "styleMapHash": {
+                    "normal": "#icon-111-nodesc-normal",
+                    "highlight": "#icon-111-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0050192,
+                    38.9037248,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NatGeo OSMGeoWeek",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "overnight for mapping event at National Geographic, in November 2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2784519,
+                    18.5866231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silar's - December 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Haiti visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9348502,
+                    18.8304284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bernadette's - December 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "OLPC / Unleash Kids visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.442852,
+                    30.562445700000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RobotsConf 2014",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "presented on Soldering, Wiring, and Prototyping"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9506698,
+                    40.7610733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Roosevelt Island - Feb 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "one month in Airbnb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9046431,
+                    40.7488826,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woodside 2",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Found an apartment for a family visit, Feb 2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9593601,
+                    40.6624754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prospect Park",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "March 2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6422825,
+                    35.7843292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Days Inn Raleigh",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Two days in Feb 2015 for NCGIS Conference - it snowed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40597719999998,
+                    37.7897771,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Orchard Garden - March 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "in SF for an interview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4133587,
+                    37.7526654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb March 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "stayed overnight so I could see more of SF after an interview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0114164,
+                    40.6817771,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Polar Research Boat\n",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "got an extra day in April 2015 between Airbnbs, spent it on the \"Cape Race\" docked in Red Hook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9303279,
+                    40.7036759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bushwick - April 2015\n",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "nine days in Bushwick in between long-term Airbnb rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9158439,
+                    40.7559209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Astoria - April-May 2015\n",
+                "styleUrl": "#icon-111-nodesc",
+                "styleHash": "-2726be8f",
+                "styleMapHash": {
+                    "normal": "#icon-111-nodesc-normal",
+                    "highlight": "#icon-111-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501333,
+                    40.7445584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Almost booked this room for three months, then accepted a job in SF. So this was only for a few weeks."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1936698,
+                    39.9595073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel - April 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "on my birthday, I was invited to speak to education technology classes at U. Penn about One Laptop per Child. Put me up in a hotel for the night."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0296097,
+                    38.9228252,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DC - May 2015",
+                "styleUrl": "#icon-111",
+                "styleHash": "-340ee56",
+                "styleMapHash": {
+                    "normal": "#icon-111-normal",
+                    "highlight": "#icon-111-highlight"
+                },
+                "description": "Visiting a couple of friends in DC over Memorial Day weekend, enjoyed Zombie Donuts and vegetarian Chinese food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4005055,
+                    37.7963223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gateway - June 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "set up in this apartment when I started working with the Asia Foundation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9695311,
+                    40.7552546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "State of the Map June 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "Stayed overnight before State of the Map US at the UN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9210911,
+                    47.9224681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Best Western - June 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "first trip with Asia Foundation! OpenStreetMap mapathon trip for a week"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1526012,
+                    16.8180979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel M - July 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "Asia Foundation hackathon preparation trip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1641026,
+                    16.7835877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb August 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "Staying in Yangon with Asia Foundation between Naypyidaw and Thailand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1252856,
+                    19.7025162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Max - July 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "bungalow room during initial election data entry with Asia Foundation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.859519,
+                    21.1363907,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bagan - July 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "cool trip to see pagodas on the weekend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5421543,
+                    13.7238769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bangkok August 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "first visit to Thailand!  Sukhotai Hotel for a week"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1677933,
+                    16.8386161,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Yankin - August 2014",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "Overnight between Thailand and Naypyitaw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1641455,
+                    16.7918049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shangri-La Residence - Sept 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "one week with the helicopter dude - sweet apartment by the zoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.113205,
+                    21.9917602,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mandalay - Sept 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "Visited Mandalay for the weekend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.13062860000001,
+                    16.8216307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hledan homestay - Sept 2015",
+                "styleUrl": "#icon-503-F8971B",
+                "styleHash": "-7219aa36",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-normal",
+                    "highlight": "#icon-503-F8971B-highlight"
+                },
+                "description": "two weeks during MaePaySoh hackathon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1607981,
+                    16.7715899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Phandeeyar Overnight Hacks",
+                "styleUrl": "#icon-503-F8971B-nodesc",
+                "styleHash": "-26dfb561",
+                "styleMapHash": {
+                    "normal": "#icon-503-F8971B-nodesc-normal",
+                    "highlight": "#icon-503-F8971B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1635875,
+                    16.8521493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Japanese homestay",
+                "styleUrl": "#icon-503-F4B400-nodesc",
+                "styleHash": "5486167f",
+                "styleMapHash": {
+                    "normal": "#icon-503-F4B400-nodesc-normal",
+                    "highlight": "#icon-503-F4B400-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9766116,
+                    40.7849584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel after Myanmar",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one night in october"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9775134,
+                    40.6885135,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Greene",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "week during JS Geo after Myanmar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9851737,
+                    40.7194042,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bowery",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Columbus Day Weekend with family and Tajik exchange student in 2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27847579999998,
+                    37.8391062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "House - October 2015",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed with a couple and their dogs on the bottom floor of a house for two weeks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.97596550000002,
+                    37.4052101,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unicode Conference Oct 2015",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed two nights to present at Unicode Conference"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.70171740000002,
+                    37.4527849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Overnight in Incheon",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "On my way to Nepal in November 2015 - just after Thanksgiving - musical stairs in train station - tried to eat soondaeguk "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3161335,
+                    27.682825,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guesthouse - Dec+Jan 2015",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Stayed at new guesthouse with performance artist. 3 weeks December, 2 weeks January"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.963356,
+                    28.2076086,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pacific Guesthouse - Dec 2015",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Pokhara weekend visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2515221,
+                    12.9940202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Indira Nagar - Dec 2015 /Jan 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Visit to CAG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8339343,
+                    11.9360931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Christmas 2015 / Guesthouse",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-668df15",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2199364,
+                    12.9673399,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Years 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Met with coworkers for New Years fireworks in Velachery, slept over"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.2955935,
+                    9.2848447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Daiwik Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "weekend in Jan 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1725826,
+                    22.2973457,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb weekend Jan 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "quick vacation visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.93590640000001,
+                    37.553007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Overnight in Seoul",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Hotel Vogue, on my way back to SF in Jan 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2682405,
+                    37.8521195,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jan-Feb 2016 - Ashby",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Airbnb with friendly music teacher - \"practice makes permanent\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9503479,
+                    40.7608458,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb 2016 - NYC Visit",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-668df15",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5865192,
+                    28.1489735,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb 2016 Visit",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-668df15",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27165220000002,
+                    37.8620135,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb 2016 Berkeley",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two weeks Airbnb on a small futon. Paranoid student roommates taking my toilet paper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3232794,
+                    37.9234147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb-March 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "First time in Richmond, one week. Large house with a couple of other guests."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2996545,
+                    37.8063933,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West Oakland Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two weeks in March 2016; first time in West Oakland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42322920000001,
+                    37.6485923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South SF - March 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Staying for a couple of days with a family in South San Francisco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3967934,
+                    37.7652529,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Potrero Hill - March 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Planning to house-sit for a friend in Potrero Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26517200000002,
+                    38.1062301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vallejo",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two days in March 2016 to take the ferry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4625397,
+                    37.7091864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Daly City",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two days in March 2016 before my Mongolia flight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0591574,
+                    22.3491034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Overnight @ Park Island",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "April 2016 on my way to Mongolia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.38976099999998,
+                    39.905325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Overnight April 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Overnight on my way back from Mongolia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9062424,
+                    47.9194914,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two weeks - community mapping project"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.24933619999999,
+                    37.8047997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April-May 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "3 weeks between Mongolia and Taiwan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5140247,
+                    25.0443148,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "first night in Taipei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9489532,
+                    40.7483786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Long Island City Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Mother's Day weekend 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0748532,
+                    38.8916842,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rosslyn hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight after Mother's Day meetup with a couple of people"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5290451,
+                    25.0418264,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taiwan Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Hotel for speakers during g0v.tw summit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5261255,
+                    13.7209377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "1st Airbnb in Thailand (1 week)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5316186,
+                    13.7239394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May Airbnb 2",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "2nd Airbnb in Thailand (2 weeks)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2030602,
+                    24.9522891,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "June 2016 overnight",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "friend's sister's neighbor's house, after midnight arrival from Thailand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2756219,
+                    37.8489511,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ashby- June 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Closing up SF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9223242,
+                    40.7400388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Return to NYC",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "July 2016 return to NYC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2909212,
+                    37.896632,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "June 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "final SF Airbnb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3255649,
+                    34.1012155,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CodeConf Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "2016 CodeConf presentation for a few days"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9884031,
+                    40.7587695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Row NYC",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "June 2016 - one night before starting at UNICEF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9286757,
+                    40.7692968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb August 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "in Astoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2902842,
+                    25.2619099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb Dubai",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "hotel-apartments during Arabic course, August 2016; returned Dubai Design week in October 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.3947802,
+                    23.5744503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oman Dubai",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "weekend visit to Muscat, during August 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.472496,
+                    0.0576782,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Entebbe Airport hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "first night in Uganda (summer 2010) before catching a bus to Fort Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3568232,
+                    0.5612272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "First stay",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "First few weeks in a room in the main section"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3562117,
+                    0.5632763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muzungu cabin",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "shared with another volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9472504,
+                    64.1516464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "JSConf Iceland 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "yay!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9280105,
+                    40.7615447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sept/Oct 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two-month 1br rental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6706624,
+                    41.8907292,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Short visit Sept 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "returned to Chicago OpenGov Hack Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1775959,
+                    42.6587541,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kosovo Con",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-668df15",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8509626,
+                    33.9984008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Morocco Apartment",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Visited friend October 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9053297,
+                    40.7423962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woodside 3",
+                "styleUrl": "#icon-22",
+                "styleHash": "63872cc",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one week in 2016, between NYC and next job"
+            }
+        }
+    ]
+}

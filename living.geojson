@@ -14,7 +14,7 @@
             "properties": {
                 "name": "Lofts at Mercer Village",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -35,7 +35,7 @@
             "properties": {
                 "name": "Macon Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -56,7 +56,7 @@
             "properties": {
                 "name": "Hilton - Mercer University",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -77,7 +77,7 @@
             "properties": {
                 "name": "Travelodge North Macon",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -98,7 +98,7 @@
             "properties": {
                 "name": "Hotel in North Macon",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -119,7 +119,7 @@
             "properties": {
                 "name": "Philadelphia Airport Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -140,7 +140,7 @@
             "properties": {
                 "name": "Maker Faire NYC 2011",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -161,7 +161,7 @@
             "properties": {
                 "name": "Hotel in Boston",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -182,7 +182,7 @@
             "properties": {
                 "name": "Somewhere in Acton",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -203,7 +203,7 @@
             "properties": {
                 "name": "olpcMAP Conference",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -224,7 +224,7 @@
             "properties": {
                 "name": "GWU",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -245,7 +245,7 @@
             "properties": {
                 "name": "MongoDB Conf - Chicago",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -266,7 +266,7 @@
             "properties": {
                 "name": "Airbnb - Bronzville",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -287,7 +287,7 @@
             "properties": {
                 "name": "Chinatown Hotel, Chicago",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -308,7 +308,7 @@
             "properties": {
                 "name": "Airbnb Rogers Park, Chicago",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -329,7 +329,7 @@
             "properties": {
                 "name": "Holiday Inn O'Hare (2)",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -342,15 +342,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.88157000000001,
-                    41.996913000000006,
+                    -87.88157,
+                    41.996913,
                     0
                 ]
             },
             "properties": {
                 "name": "Holiday Inn O'Hare (1)",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -363,7 +363,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.65668899999999,
+                    -122.656689,
                     45.547957,
                     0
                 ]
@@ -371,7 +371,7 @@
             "properties": {
                 "name": "State of the Map US (2012)",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -384,7 +384,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.38288900000002,
+                    -122.382889,
                     47.666457,
                     0
                 ]
@@ -392,7 +392,7 @@
             "properties": {
                 "name": "Ballard Inn, Seattle",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -405,7 +405,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.31139200000001,
+                    -122.311392,
                     47.607725,
                     0
                 ]
@@ -413,7 +413,7 @@
             "properties": {
                 "name": "Seattle Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -426,7 +426,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.85760499999999,
+                    -121.857605,
                     36.596166,
                     0
                 ]
@@ -434,7 +434,7 @@
             "properties": {
                 "name": "Monterey Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -447,7 +447,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.03660500000001,
+                    -122.036605,
                     36.967895,
                     0
                 ]
@@ -455,7 +455,7 @@
             "properties": {
                 "name": "Santa Cruz Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -476,7 +476,7 @@
             "properties": {
                 "name": "Good Nite Inn",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -497,7 +497,7 @@
             "properties": {
                 "name": "Cheap Motel, Redlands",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -518,7 +518,7 @@
             "properties": {
                 "name": "Loma Linda",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -539,7 +539,7 @@
             "properties": {
                 "name": "Wrigleyville",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -560,7 +560,7 @@
             "properties": {
                 "name": "Waikiki",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -581,7 +581,7 @@
             "properties": {
                 "name": "Arno",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -602,7 +602,7 @@
             "properties": {
                 "name": "Marshall Islands Resort",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -623,7 +623,7 @@
             "properties": {
                 "name": "Majuro Apartment",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -644,7 +644,7 @@
             "properties": {
                 "name": "Grassroots United, Haiti",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -665,7 +665,7 @@
             "properties": {
                 "name": "Croix-des-Bouquets, Haiti",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -686,7 +686,7 @@
             "properties": {
                 "name": "Junior's House",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -707,7 +707,7 @@
             "properties": {
                 "name": "Hinche, Haiti",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -728,7 +728,7 @@
             "properties": {
                 "name": "Hostel 1, Montevideo",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -749,7 +749,7 @@
             "properties": {
                 "name": "Pocitos Hostel, Uruguay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -770,7 +770,7 @@
             "properties": {
                 "name": "Carrasco, Uruguay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -791,7 +791,7 @@
             "properties": {
                 "name": "La Paloma, Uruguay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -804,7 +804,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -57.834090999999994,
+                    -57.834091,
                     -34.463542,
                     0
                 ]
@@ -812,7 +812,7 @@
             "properties": {
                 "name": "Colonia, Uruguay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -833,7 +833,7 @@
             "properties": {
                 "name": "Durazno, Uruguay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -846,7 +846,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.41258600000002,
+                    -122.412586,
                     37.623206,
                     0
                 ]
@@ -854,7 +854,7 @@
             "properties": {
                 "name": "San Bruno Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -875,7 +875,7 @@
             "properties": {
                 "name": "Airbnb 1, State of the Map",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -896,7 +896,7 @@
             "properties": {
                 "name": "Esri UC, 2012",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -909,7 +909,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.06414000000001,
+                    -79.06414,
                     43.086943,
                     0
                 ]
@@ -917,7 +917,7 @@
             "properties": {
                 "name": "Niagara Falls",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -931,14 +931,14 @@
                 "type": "Point",
                 "coordinates": [
                     -122.142563,
-                    37.423480000000005,
+                    37.42348,
                     0
                 ]
             },
             "properties": {
                 "name": "Palo Alto Travelodge",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -952,14 +952,14 @@
                 "type": "Point",
                 "coordinates": [
                     -122.098961,
-                    37.39423200000001,
+                    37.394232,
                     0
                 ]
             },
             "properties": {
                 "name": "Google Geo for Good",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -980,7 +980,7 @@
             "properties": {
                 "name": "Glen Park",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -993,7 +993,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.28392600000001,
+                    -122.283926,
                     37.832565,
                     0
                 ]
@@ -1001,7 +1001,7 @@
             "properties": {
                 "name": "Emeryville",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1022,7 +1022,7 @@
             "properties": {
                 "name": "Clarion Hotel, Oakland",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1035,7 +1035,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.26019400000001,
+                    -122.260194,
                     37.803138,
                     0
                 ]
@@ -1043,7 +1043,7 @@
             "properties": {
                 "name": "Lake Merritt",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1056,7 +1056,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.31774300000001,
+                    -122.317743,
                     37.863403,
                     0
                 ]
@@ -1064,7 +1064,7 @@
             "properties": {
                 "name": "Boat, Berkeley Marina",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1077,7 +1077,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.29401100000001,
+                    -122.294011,
                     37.872956,
                     0
                 ]
@@ -1085,7 +1085,7 @@
             "properties": {
                 "name": "Berkeley Inn",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1106,7 +1106,7 @@
             "properties": {
                 "name": "Super 8, Berkeley",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1119,7 +1119,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.19408300000002,
+                    -122.194083,
                     37.740771,
                     0
                 ]
@@ -1127,7 +1127,7 @@
             "properties": {
                 "name": "Motel 6, Oakland Airport",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1148,7 +1148,7 @@
             "properties": {
                 "name": "Airbnb in South San Francisco",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1169,7 +1169,7 @@
             "properties": {
                 "name": "SFSU Campus Area Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1182,7 +1182,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.26040799999998,
+                    -122.260408,
                     37.820768,
                     0
                 ]
@@ -1190,7 +1190,7 @@
             "properties": {
                 "name": "Airbnb Oakland",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1203,7 +1203,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.38572099999999,
+                    -122.385721,
                     37.614843,
                     0
                 ]
@@ -1211,7 +1211,7 @@
             "properties": {
                 "name": "SFO",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -1232,7 +1232,7 @@
             "properties": {
                 "name": "1st Real Apartment",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1253,7 +1253,7 @@
             "properties": {
                 "name": "NYC Hotel 2013",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1274,7 +1274,7 @@
             "properties": {
                 "name": "AirBnB - Hacking",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1295,7 +1295,7 @@
             "properties": {
                 "name": "DC Days Inn",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1316,7 +1316,7 @@
             "properties": {
                 "name": "DC relatives",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1337,7 +1337,7 @@
             "properties": {
                 "name": "Comfort Inn",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1358,7 +1358,7 @@
             "properties": {
                 "name": "Pilsen Airbnb",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1379,7 +1379,7 @@
             "properties": {
                 "name": "Red Roof Inn",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1392,7 +1392,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.41119400000001,
+                    -82.411194,
                     34.84424,
                     0
                 ]
@@ -1400,7 +1400,7 @@
             "properties": {
                 "name": "NACIS Airbnb",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1413,7 +1413,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.26495699999998,
+                    -122.264957,
                     37.861234,
                     0
                 ]
@@ -1421,7 +1421,7 @@
             "properties": {
                 "name": "Airbnb in Berkeley",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1442,7 +1442,7 @@
             "properties": {
                 "name": "OLPC Friend",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1463,7 +1463,7 @@
             "properties": {
                 "name": "Quality Inn",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1484,7 +1484,7 @@
             "properties": {
                 "name": "2nd Real Apartment",
                 "styleUrl": "#icon-61",
-                "styleHash": "2d58c1bf",
+                "styleHash": "30d3c6a6",
                 "styleMapHash": {
                     "normal": "#icon-61-normal",
                     "highlight": "#icon-61-highlight"
@@ -1505,7 +1505,7 @@
             "properties": {
                 "name": "Days Inn / Pentagon",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1526,7 +1526,7 @@
             "properties": {
                 "name": "Dream Hotel",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1547,7 +1547,7 @@
             "properties": {
                 "name": "Al Diar Capital",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1561,14 +1561,14 @@
                 "type": "Point",
                 "coordinates": [
                     -84.68811,
-                    44.42501500000001,
+                    44.425015,
                     0
                 ]
             },
             "properties": {
                 "name": "Civis Retreat",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1589,7 +1589,7 @@
             "properties": {
                 "name": "Rabi's House",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1610,7 +1610,7 @@
             "properties": {
                 "name": "Syaphru Besi",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1624,14 +1624,14 @@
                 "type": "Point",
                 "coordinates": [
                     85.42119,
-                    28.158433000000002,
+                    28.158433,
                     0
                 ]
             },
             "properties": {
                 "name": "Moonlight",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1645,14 +1645,14 @@
                 "type": "Point",
                 "coordinates": [
                     85.521011,
-                    28.215815000000003,
+                    28.215815,
                     0
                 ]
             },
             "properties": {
                 "name": "Langtang",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1673,7 +1673,7 @@
             "properties": {
                 "name": "Kyanjin Gompa",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1694,7 +1694,7 @@
             "properties": {
                 "name": "Bernie's house",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1715,7 +1715,7 @@
             "properties": {
                 "name": "In-Transit Hotel, Delhi",
                 "styleUrl": "#icon-123",
-                "styleHash": "616b427b",
+                "styleHash": "-1fc6243c",
                 "styleMapHash": {
                     "normal": "#icon-123-normal",
                     "highlight": "#icon-123-highlight"
@@ -1736,7 +1736,7 @@
             "properties": {
                 "name": "Bed-Stuy Airbnb",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1757,7 +1757,7 @@
             "properties": {
                 "name": "Weehawken Airbnb",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1778,7 +1778,7 @@
             "properties": {
                 "name": "West New York Airbnb",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1799,7 +1799,7 @@
             "properties": {
                 "name": "Clinton Hill Sublet",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1820,7 +1820,7 @@
             "properties": {
                 "name": "Chinatown - Oct 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1841,7 +1841,7 @@
             "properties": {
                 "name": "Bushwick - Oct 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1862,7 +1862,7 @@
             "properties": {
                 "name": "Astoria - Oct 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1883,7 +1883,7 @@
             "properties": {
                 "name": "Keep Ruby Weird",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1897,14 +1897,14 @@
                 "type": "Point",
                 "coordinates": [
                     -73.921294,
-                    40.82910600000001,
+                    40.829106,
                     0
                 ]
             },
             "properties": {
                 "name": "Bronx",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1925,7 +1925,7 @@
             "properties": {
                 "name": "Upper West Side",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1938,15 +1938,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.0845871,
-                    40.6436566,
+                    -74.0802956,
+                    40.6368832,
                     0
                 ]
             },
             "properties": {
                 "name": "Staten Island - Nov 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1967,7 +1967,7 @@
             "properties": {
                 "name": "Woodside",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -1988,7 +1988,7 @@
             "properties": {
                 "name": "Bushwick - Nov/Dec 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2009,7 +2009,7 @@
             "properties": {
                 "name": "OLPC Hack Nov 2014",
                 "styleUrl": "#icon-111-nodesc",
-                "styleHash": "-2726be8f",
+                "styleHash": "-375a8988",
                 "styleMapHash": {
                     "normal": "#icon-111-nodesc-normal",
                     "highlight": "#icon-111-nodesc-highlight"
@@ -2029,7 +2029,7 @@
             "properties": {
                 "name": "NatGeo OSMGeoWeek",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2050,7 +2050,7 @@
             "properties": {
                 "name": "Silar's - December 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2071,7 +2071,7 @@
             "properties": {
                 "name": "Bernadette's - December 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2085,14 +2085,14 @@
                 "type": "Point",
                 "coordinates": [
                     -81.442852,
-                    30.562445700000005,
+                    30.5624457,
                     0
                 ]
             },
             "properties": {
                 "name": "RobotsConf 2014",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2105,15 +2105,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9506698,
-                    40.7610733,
+                    -73.9499939,
+                    40.7618941,
                     0
                 ]
             },
             "properties": {
                 "name": "Roosevelt Island - Feb 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2134,7 +2134,7 @@
             "properties": {
                 "name": "Woodside 2",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2155,7 +2155,7 @@
             "properties": {
                 "name": "Prospect Park",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2176,7 +2176,7 @@
             "properties": {
                 "name": "Days Inn Raleigh",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2189,7 +2189,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.40597719999998,
+                    -122.4059772,
                     37.7897771,
                     0
                 ]
@@ -2197,7 +2197,7 @@
             "properties": {
                 "name": "Orchard Garden - March 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2218,7 +2218,7 @@
             "properties": {
                 "name": "Airbnb March 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2239,7 +2239,7 @@
             "properties": {
                 "name": "Polar Research Boat\n",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2260,7 +2260,7 @@
             "properties": {
                 "name": "Bushwick - April 2015\n",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2281,7 +2281,7 @@
             "properties": {
                 "name": "Astoria - April-May 2015\n",
                 "styleUrl": "#icon-111-nodesc",
-                "styleHash": "-2726be8f",
+                "styleHash": "-375a8988",
                 "styleMapHash": {
                     "normal": "#icon-111-nodesc-normal",
                     "highlight": "#icon-111-nodesc-highlight"
@@ -2301,7 +2301,7 @@
             "properties": {
                 "name": "May 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2322,7 +2322,7 @@
             "properties": {
                 "name": "Hotel - April 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2343,7 +2343,7 @@
             "properties": {
                 "name": "DC - May 2015",
                 "styleUrl": "#icon-111",
-                "styleHash": "-340ee56",
+                "styleHash": "51b3f4a3",
                 "styleMapHash": {
                     "normal": "#icon-111-normal",
                     "highlight": "#icon-111-highlight"
@@ -2364,7 +2364,7 @@
             "properties": {
                 "name": "Gateway - June 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2385,7 +2385,7 @@
             "properties": {
                 "name": "State of the Map June 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2406,7 +2406,7 @@
             "properties": {
                 "name": "Best Western - June 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2427,7 +2427,7 @@
             "properties": {
                 "name": "Hotel M - July 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2448,7 +2448,7 @@
             "properties": {
                 "name": "Airbnb August 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2469,7 +2469,7 @@
             "properties": {
                 "name": "Hotel Max - July 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2490,7 +2490,7 @@
             "properties": {
                 "name": "Bagan - July 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2511,7 +2511,7 @@
             "properties": {
                 "name": "Bangkok August 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2532,7 +2532,7 @@
             "properties": {
                 "name": "Hotel Yankin - August 2014",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2553,7 +2553,7 @@
             "properties": {
                 "name": "Shangri-La Residence - Sept 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2574,7 +2574,7 @@
             "properties": {
                 "name": "Mandalay - Sept 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2587,7 +2587,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    96.13062860000001,
+                    96.1306286,
                     16.8216307,
                     0
                 ]
@@ -2595,7 +2595,7 @@
             "properties": {
                 "name": "Hledan homestay - Sept 2015",
                 "styleUrl": "#icon-503-F8971B",
-                "styleHash": "-7219aa36",
+                "styleHash": "29a0b6c9",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-normal",
                     "highlight": "#icon-503-F8971B-highlight"
@@ -2616,7 +2616,7 @@
             "properties": {
                 "name": "Phandeeyar Overnight Hacks",
                 "styleUrl": "#icon-503-F8971B-nodesc",
-                "styleHash": "-26dfb561",
+                "styleHash": "-4d72d620",
                 "styleMapHash": {
                     "normal": "#icon-503-F8971B-nodesc-normal",
                     "highlight": "#icon-503-F8971B-nodesc-highlight"
@@ -2636,7 +2636,7 @@
             "properties": {
                 "name": "Japanese homestay",
                 "styleUrl": "#icon-503-F4B400-nodesc",
-                "styleHash": "5486167f",
+                "styleHash": "39777bc0",
                 "styleMapHash": {
                     "normal": "#icon-503-F4B400-nodesc-normal",
                     "highlight": "#icon-503-F4B400-nodesc-highlight"
@@ -2656,7 +2656,7 @@
             "properties": {
                 "name": "Hotel after Myanmar",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2677,7 +2677,7 @@
             "properties": {
                 "name": "Fort Greene",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2698,7 +2698,7 @@
             "properties": {
                 "name": "Bowery",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2711,7 +2711,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.27847579999998,
+                    -122.2784758,
                     37.8391062,
                     0
                 ]
@@ -2719,7 +2719,7 @@
             "properties": {
                 "name": "House - October 2015",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2732,20 +2732,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.97596550000002,
+                    -121.9759655,
                     37.4052101,
                     0
                 ]
             },
             "properties": {
-                "name": "Unicode Conference Oct 2015",
+                "name": "October 2015 + 2017",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
                 },
-                "description": "Stayed two nights to present at Unicode Conference"
+                "description": "Stayed two nights apiece to present at Unicode Conference 2015 and 2017"
             }
         },
         {
@@ -2753,7 +2753,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    126.70171740000002,
+                    126.7017174,
                     37.4527849,
                     0
                 ]
@@ -2761,7 +2761,7 @@
             "properties": {
                 "name": "Overnight in Incheon",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2782,7 +2782,7 @@
             "properties": {
                 "name": "Guesthouse - Dec+Jan 2015",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2803,7 +2803,7 @@
             "properties": {
                 "name": "Pacific Guesthouse - Dec 2015",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2824,7 +2824,7 @@
             "properties": {
                 "name": "Indira Nagar - Dec 2015 /Jan 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2845,7 +2845,7 @@
             "properties": {
                 "name": "Christmas 2015 / Guesthouse",
                 "styleUrl": "#icon-22-nodesc",
-                "styleHash": "-668df15",
+                "styleHash": "-734d3edc",
                 "styleMapHash": {
                     "normal": "#icon-22-nodesc-normal",
                     "highlight": "#icon-22-nodesc-highlight"
@@ -2865,7 +2865,7 @@
             "properties": {
                 "name": "New Years 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2886,7 +2886,7 @@
             "properties": {
                 "name": "Daiwik Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2907,7 +2907,7 @@
             "properties": {
                 "name": "Airbnb weekend Jan 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2920,7 +2920,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    126.93590640000001,
+                    126.9359064,
                     37.553007,
                     0
                 ]
@@ -2928,7 +2928,7 @@
             "properties": {
                 "name": "Overnight in Seoul",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2949,7 +2949,7 @@
             "properties": {
                 "name": "Jan-Feb 2016 - Ashby",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -2970,7 +2970,7 @@
             "properties": {
                 "name": "Feb 2016 - NYC Visit",
                 "styleUrl": "#icon-22-nodesc",
-                "styleHash": "-668df15",
+                "styleHash": "-734d3edc",
                 "styleMapHash": {
                     "normal": "#icon-22-nodesc-normal",
                     "highlight": "#icon-22-nodesc-highlight"
@@ -2990,7 +2990,7 @@
             "properties": {
                 "name": "Feb 2016 Visit",
                 "styleUrl": "#icon-22-nodesc",
-                "styleHash": "-668df15",
+                "styleHash": "-734d3edc",
                 "styleMapHash": {
                     "normal": "#icon-22-nodesc-normal",
                     "highlight": "#icon-22-nodesc-highlight"
@@ -3002,7 +3002,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.27165220000002,
+                    -122.2716522,
                     37.8620135,
                     0
                 ]
@@ -3010,7 +3010,7 @@
             "properties": {
                 "name": "Feb 2016 Berkeley",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3031,7 +3031,7 @@
             "properties": {
                 "name": "Feb-March 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3052,7 +3052,7 @@
             "properties": {
                 "name": "West Oakland Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3065,7 +3065,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42322920000001,
+                    -122.4232292,
                     37.6485923,
                     0
                 ]
@@ -3073,7 +3073,7 @@
             "properties": {
                 "name": "South SF - March 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3094,7 +3094,7 @@
             "properties": {
                 "name": "Potrero Hill - March 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3107,7 +3107,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.26517200000002,
+                    -122.265172,
                     38.1062301,
                     0
                 ]
@@ -3115,7 +3115,7 @@
             "properties": {
                 "name": "Vallejo",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3136,7 +3136,7 @@
             "properties": {
                 "name": "Daly City",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3157,7 +3157,7 @@
             "properties": {
                 "name": "Overnight @ Park Island",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3170,7 +3170,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    116.38976099999998,
+                    116.389761,
                     39.905325,
                     0
                 ]
@@ -3178,7 +3178,7 @@
             "properties": {
                 "name": "Overnight April 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3199,7 +3199,7 @@
             "properties": {
                 "name": "April 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3212,7 +3212,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.24933619999999,
+                    -122.2493362,
                     37.8047997,
                     0
                 ]
@@ -3220,7 +3220,7 @@
             "properties": {
                 "name": "April-May 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3241,7 +3241,7 @@
             "properties": {
                 "name": "May 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3262,7 +3262,7 @@
             "properties": {
                 "name": "Long Island City Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3283,12 +3283,12 @@
             "properties": {
                 "name": "Rosslyn hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
                 },
-                "description": "overnight after Mother's Day meetup with a couple of people"
+                "description": "overnight after May 2016 meetup with a couple of people"
             }
         },
         {
@@ -3304,7 +3304,7 @@
             "properties": {
                 "name": "Taiwan Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3325,7 +3325,7 @@
             "properties": {
                 "name": "May Airbnb",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3346,7 +3346,7 @@
             "properties": {
                 "name": "May Airbnb 2",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3367,7 +3367,7 @@
             "properties": {
                 "name": "June 2016 overnight",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3388,7 +3388,7 @@
             "properties": {
                 "name": "Ashby- June 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3409,7 +3409,7 @@
             "properties": {
                 "name": "Return to NYC",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3430,7 +3430,7 @@
             "properties": {
                 "name": "June 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3451,7 +3451,7 @@
             "properties": {
                 "name": "CodeConf Hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3472,12 +3472,12 @@
             "properties": {
                 "name": "Row NYC",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
                 },
-                "description": "June 2016 - one night before starting at UNICEF"
+                "description": "June 2016 - night before starting at UNICEF<br>Feb 2017 - interview and Eyebeam event"
             }
         },
         {
@@ -3493,7 +3493,7 @@
             "properties": {
                 "name": "Airbnb August 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3514,7 +3514,7 @@
             "properties": {
                 "name": "Airbnb Dubai",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3535,7 +3535,7 @@
             "properties": {
                 "name": "Oman Dubai",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3556,7 +3556,7 @@
             "properties": {
                 "name": "Entebbe Airport hotel",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3577,7 +3577,7 @@
             "properties": {
                 "name": "First stay",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3598,7 +3598,7 @@
             "properties": {
                 "name": "Muzungu cabin",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3619,7 +3619,7 @@
             "properties": {
                 "name": "JSConf Iceland 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3640,7 +3640,7 @@
             "properties": {
                 "name": "Sept/Oct 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3661,7 +3661,7 @@
             "properties": {
                 "name": "Short visit Sept 2016",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3682,7 +3682,7 @@
             "properties": {
                 "name": "Kosovo Con",
                 "styleUrl": "#icon-22-nodesc",
-                "styleHash": "-668df15",
+                "styleHash": "-734d3edc",
                 "styleMapHash": {
                     "normal": "#icon-22-nodesc-normal",
                     "highlight": "#icon-22-nodesc-highlight"
@@ -3702,7 +3702,7 @@
             "properties": {
                 "name": "Morocco Apartment",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
@@ -3723,12 +3723,2313 @@
             "properties": {
                 "name": "Woodside 3",
                 "styleUrl": "#icon-22",
-                "styleHash": "63872cc",
+                "styleHash": "72e693d3",
                 "styleMapHash": {
                     "normal": "#icon-22-normal",
                     "highlight": "#icon-22-highlight"
                 },
                 "description": "one week in 2016, between NYC and next job"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0198708,
+                    40.7717344,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Weehawken Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "3 days in NYC for Code for America meetup, interview, etc before starting my new job in DC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0553589,
+                    38.9262974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DC Nov 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "moved to DC to do maps work; couple nights between NYC and Iceland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1047115,
+                    38.8648402,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov-Dec 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two weeks starting mapping contract"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9137335,
+                    64.1423643,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iceland Winter Visit",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Three nights during winter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2016449,
+                    64.2680068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iceland roadtrip",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Nov 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.0143433,
+                    63.7314778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iceland Roadtrip",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Nov 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.9985981,
+                    26.2239465,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beigan / Matsu Islands",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Christmas 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1390677,
+                    22.2871265,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Best Western",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight in a 2-room suite because my first Airbnb didn't work out!<br>returned at the end of my trip for interviews"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0386009,
+                    22.2852843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HK 2017",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0274429,
+                    22.2050474,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HK 2017",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1707319,
+                    22.2778186,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Burlington",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two nights just after arriving in Hong Kong 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1707373,
+                    22.308195,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HK 2017",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9922948,
+                    38.9225914,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "December 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One last week before my trip to Taiwan and HK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0725143,
+                    38.8951078,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stay December 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "night between DC and SF / Taiwan flight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4151611,
+                    37.7786184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "December 2016",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight hotel before interview and continuing on to Taiwan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5523481,
+                    25.0516241,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arena Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight before leaving Taipei, because I haven't been sleeping well in the tatami room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5173936,
+                    25.0450535,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Work Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one week in tiny tatami room hostel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5059566,
+                    25.0416515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokyo Hotel-Apartment",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two nights in a hotel-apartments type thing with a loft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1119003,
+                    22.235082,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lamma Island",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One week (minus a day) with two mainland Chinese roommates and a neighbor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1815948,
+                    22.2792433,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airbnb",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "compact Airbnb apartment a few days of Jan 2017, fold-up bed mat and shower/toilet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7729588,
+                    35.6685234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tsukiji",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One week Feb 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.1458707,
+                    18.3970853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Miguel Plaza",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two nights during PyCaribbean 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.059761,
+                    18.454046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "few days at an Airbnb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5487223,
+                    22.2050871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UNCS Macau Visit",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "A few days in Macau to present ICT4D, Jan 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7705984,
+                    35.675191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "APA Ginza Kyobashi",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Overnight because Airbnb internets not working"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0201931,
+                    18.442403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "weekend hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "my mom visited me during PyCaribbean conference"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0155334,
+                    38.8801761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb-Mar 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one week, interviews in DC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0411325,
+                    38.9217067,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DC - March 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Visiting DC, one week here for interviews, meeting with friends"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9496183,
+                    40.7627392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "March 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one week on my way from DC to Boston<br>ManhattanJS talk, AMNH Cuba event, interviews"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4490643,
+                    37.7719699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "March 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Interview and general visit to SF for a few days"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1574063,
+                    39.9632983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "March 2017 stopover",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "a few days, full basement apt, for an interview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1015143,
+                    38.8760835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "March-April 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Closing up mapping project"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871264,
+                    40.7594968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paramount April 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One overnight after a late bus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0853596,
+                    40.644373,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two weeks before starting new job"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8877344,
+                    40.7475821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "a few days in one room of an Airbnb house, around Nepali Endangered Languages tour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2488213,
+                    37.7942198,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Moved to Chinese 3-Airbnb place in Oakland for 4 nights prior to month in Berkeley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2766089,
+                    37.8712795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one-month rental near the kava cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.8109217,
+                    21.287355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "June 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Honolulu house!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.831167,
+                    21.2833462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "first day in Honolulu",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "May 30-31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.0858831,
+                    19.7174646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "July 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Hilo !"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.8243408,
+                    21.2763918,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stay Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one overnight - saw hula at Pan Asian Festival, stressed, got some sleep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5168877,
+                    35.9003141,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "September",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Malta visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1150384,
+                    42.395636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gerrymandering",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "2nd week of August 2017, for Gerrymandering Summer School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.7441406,
+                    64.8209071,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fairbanks TBD",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "TBD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6457024,
+                    45.5211425,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "June 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Four days for OpenSourceBridge conference"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.9198408,
+                    21.6411738,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marriott Overnight",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "June 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.989573,
+                    19.6366056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kona Islander Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.9837875,
+                    19.3480759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tiny House",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight in lava Airbnb!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.2349548,
+                    21.1908141,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Molokai place",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.1086772,
+                    61.5924757,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palmer / Wasilla",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.6862611,
+                    60.7719443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whittier Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "room on 14th floor of the one building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.8725451,
+                    64.8235244,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alaska LaQuinta Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "North Pole didn't work out :("
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.7016602,
+                    64.1776794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nuuk",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.7025911,
+                    67.0125189,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kangerlussauq",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -150.100708,
+                    62.3138987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Talkeetna cabins",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Drive Whittier - North Pole is too far, so I stop here"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6666927,
+                    41.9069403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aug 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Three days visiting for U Chicago Poverty Lab and Open Gov Hack Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.970046,
+                    40.6789131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aug 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two days for BrooklynJS, MoMA visit<br>host knew about Bitcoin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1692295,
+                    39.9569251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aug 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Central city overnight visiting FTZ at U.Penn re: Bangladesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5448036,
+                    63.986729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keflavik overnight",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one overnight Aug 2017 between Greenland and Frankfurt/Malta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3395133,
+                    45.4384839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Venice",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "September 2017 two nights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1521186,
+                    41.3857442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stopover",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "super-quick September 2017 stopover hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133295,
+                    51.532148,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iran / Myanmar Conf",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "A few days in September 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5441542,
+                    4.2182815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hulhumalé",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one week visiting Maldives"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4631729,
+                    4.9599571,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kaashidhoo visit",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "few days"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0906248,
+                    -0.6052667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Addu City",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "short visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473255,
+                    31.2343804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "October 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "half-day stopover"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.842453,
+                    7.2385105,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "October 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one day stopover Maldives -> Sri Lanka -> Shanghai -> SF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3865366,
+                    37.6027403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "October 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "re-entry from round-the-world trip and Maldives-Sri Lanka-Shanghai-US flight, before Unicode Conf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2586365,
+                    40.0057907,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "State of the Map Oct 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "few days stay during OpenStreetMap conference"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9367283,
+                    39.7896097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "October 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "quick hotel stay between Unicode (SF) and OpenStreetMap (Boulder) conferences<br><br>like to stay at a hotel if I'm arriving around midnight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5646945,
+                    6.2087356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017 JSConf CO",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "three nights in Diez Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.001279,
+                    55.6108257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017 Øredev",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "few days for quantum computing talk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0866981,
+                    -0.6001601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pebbles Inn",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "wasn't happy with Airbnb, so moved to Pebbles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9499831,
+                    40.7279417,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oct 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "a few days between OpenStreetMap conference and going home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.8024464,
+                    39.7718669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oct 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Econo Lodge after OpenStreetMap conf and Turing School interview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.008903,
+                    38.9140603,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oct 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "A few days and phone interview before heading to Colombia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5625057,
+                    6.2471315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two nights after first arrived in Medellín - exotic fruit tour!!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.569222,
+                    6.2156471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "final hotel stay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6277513,
+                    78.221973,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Svalbard",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "a few days for Kuntspause in Nov 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0665875,
+                    59.3139877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two days between Svalbard and NYC interview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8841295,
+                    40.7486875,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One night after returning from Øredev / Svalbard / Sweden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9175392,
+                    40.7403151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "One night after interview and before flying to Nepal / Japan / NodeFest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3290081,
+                    27.7272035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two days in Kathmandu before Japan roundtrip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.7181983,
+                    25.0407572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "stopover in Kunming, between Nepal and Japan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7705879,
+                    34.9827528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kyoto visit",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one night in Nov 2017 after arriving in Osaka, on the way to NodeFest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7329187,
+                    35.6679307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asakasa - Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "four nights in Tokyo around NodeFest Japan 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1902945,
+                    36.6541193,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Unicorn",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two nights in Airbnb/hotel to see snow monkeys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5153122,
+                    31.2235182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nov 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one half day / overnight at Everydaylight hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3092617,
+                    27.7168514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Gallery",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight between Japan/Shanghai/Kunming and Pokhara bus trip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.9656305,
+                    28.2120428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pokhara Dec 2017",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Two weeks in 1st floor apartment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.9609045,
+                    28.2077362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Placid Valley Lodge",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "one month, mid-December to mid-January"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.2842261,
+                    27.4703727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lumbini Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "three nights visiting Buddha birthplace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.2925515,
+                    27.7304513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kathmandu Jan 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "two nights between Pokhara and Kuala Lumpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6873288,
+                    3.13306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kuala Lumpur stopover",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight in Jan 2018 on my way from Kathmandu to Honolulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.0227947,
+                    21.3530195,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hawaii Jan 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Overnight after arriving from Nepal and Malaysia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.158493,
+                    21.5775546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stopover",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Jan 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.7559471,
+                    21.3760007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jan 2018",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.7062511,
+                    21.2695397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jan 2018",
+                "styleUrl": "#icon-22-nodesc",
+                "styleHash": "-734d3edc",
+                "styleMapHash": {
+                    "normal": "#icon-22-nodesc-normal",
+                    "highlight": "#icon-22-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9511204,
+                    40.7709381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jan-Feb 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "First month returned to NYC for McKinsey... got eye infection so work was delayed two weeks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9712691,
+                    40.7594155,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb 2018 overnight",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Mom and exchange student visited two nights, I stayed over after Empire State Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.968544,
+                    40.7564086,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Feb - Mar 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Apartment near work, music downstairs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0061593,
+                    40.6794339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mar-Apr 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "the Red Hook place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9528155,
+                    40.7333564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "May 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "the Greenpoint place, between Spain and Chinatown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9381991,
+                    35.2936123,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Melilla",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Apr 2018, Hotel Anfora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.425323,
+                    36.715357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eurostars Hotel, Malaga",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Apr 2018 - 2 nights after plane diverted from Gibraltar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3388975,
+                    33.927747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meridien",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Overnight in April 2018 for work meeting"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4133282,
+                    36.7290133,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Five nights in cheap dorm style Airbnb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.444364,
+                    36.1277061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Marina Victoria",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "overnight after Gibraltar visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5974324,
+                    37.1693067,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Overnight April 2018 after seeing the Alhambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4599128,
+                    36.6893106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "April 2018",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "final overnight in Spain"
             }
         }
     ]

@@ -1,157 +1,228 @@
+
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Nicholas Doiron - Online Resume</title>
-		<link rel="stylesheet" type="text/css" href="custom.css"/>
-		<link href='https://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'/>
-	</head>
-	<body>
-    <ul id="navpack">
-      <li>
-        <a href="/NicholasDoironCV.pdf">Download CV</a>
-      </li>
-      <li>
-        <a href="https://github.com/mapmeld">GitHub</a>
-      </li>
-      <li>
-        <a href="https://twitter.com/mapmeld">Twitter</a>
-      </li>
-    </ul>
-    <h1>Nick Doiron</h1>
-    <div class="clearfix"></div>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain"/>
+    <link href="//fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
+    <style type="text/css">
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-    <h2>Civic Hacking</h2>
-    <div class="expimage">
-		  <img src="/pics/maconcityhall.jpg"/>
-		  <img src="/pics/independencehall.jpg"/>
-    </div>
-		<p>As a 2012 <a href="http://codeforamerica.org">Code for America</a> fellow, I adopted, adapted, and wrote new open source software for Macon, Honolulu, Santa Cruz, and Chicago.</p>
-		<p>I was awarded <a href="http://www.knightfoundation.org/blogs/knightblog/2012/10/16/first-ever-civic-data-challenge-success/">First Place</a> in the 2012 Civic Data Challenge, and Key to the City of Macon, Georgia. Our Honolulu Answers team <a href="http://www.govtech.com/internet/Want-Better-Answers-from-Your-City-Honolulu-Can-Help.html">received several awards</a>.</p>
-		<p>In 2013 I developed apps with <a href="http://datamade.us">Datamade</a> for the Chicago Health Atlas, and the School of the Art Institute of Chicago.</p>
-		<p>I continue to hack on open data and government at The Asia Foundation's Digital Media and Technology Program, and Code for America meetups.</p>
-		<p>Some of my favorite projects are <a href="http://blockee.org">Blockee</a>, <a href="http://maconmaps.com">MaconMaps</a>, and the <a href="https://maps.cityofboston.gov/bikenetwork/">Boston Bike Plan</a>.</p>
-		<p>Skills:
-			<br/>
-			<strong>Web Mapping</strong>: Google Maps API, MapBox + TileMill, Leaflet
-			<br/>
-			<strong>Programming</strong>: HTML / CSS / JavaScript, Node.js, Ruby on Rails, Python
-			<br/>
-			<strong>SQL-based Databases</strong>: Postgres/PostGIS, MySQL, SQLite
-			<br/>
-			<strong>NoSQL Databases</strong>: MongoDB, Neo4j
-		</p>
+#body {
+  padding: 40px;
+}
 
-    <div class="clearfix"></div>
+h2 {
+  background-color: #8CF;
+  font-weight: normal;
+  padding: 10px;
+}
 
-		<h2>Education Technology</h2>
-    <div class="expimage">
-      <img src="/pics/outdoormaps.jpeg"/>
-    </div>
+h3 {
+  font-style: italic;
+}
 
-		<p>I traveled to schools in Uganda, Uruguay, Haiti, and Nepal in 2010-2014 to develop and teach new educational activities.</p>
-		<p>Working in the field and remotely with other deployments, I wrote mapping, science, and language programs which run on <a href="http://laptop.org">One Laptop per Child</a>'s Linux laptops.</p>
-    <p>In late 2012 / early 2013 I helped start OLPC's teacher training program in the Marshall Islands.</p>
-    <p>In 2015 our eBook software was a finalist in the <a href="https://www.omnicompete.com/enabling_writers.html">USAID Enabling Writers competition</a>.</p>
-    <div class="mapset">
-  		<img src="https://maps.google.com/maps/api/staticmap?sensor=false&size=220x220&markers=icon:http://labs.google.com/ridefinder/images/mm_20_red.png|Fort%20Portal,Uganda&center=Uganda&maptype=hybrid&zoom=5"/>
-  		<img src="https://maps.google.com/maps/api/staticmap?sensor=false&size=220x220&markers=icon:http://labs.google.com/ridefinder/images/mm_20_red.png|Pocitos,Montevideo,Uruguay|Carrasco,Montevideo,Uruguay|Parque%20Rodo,Montevideo,Uruguay|Plaza%20Independencia,Montevideo,Uruguay|La%20Paloma,Uruguay|Rocha,Rocha,Uruguay|Tala,Uruguay|Colonia%20del%20Sacramento,Uruguay|Punta%20del%20Este,Uruguay|-33.7,-56.6|Paso%20de%20los%20Toros,Uruguay&center=Uruguay&maptype=hybrid&zoom=5"/>
-  		<img src="https://maps.google.com/maps/api/staticmap?sensor=false&size=220x220&maptype=hybrid&markers=size:small|Croix-des-Bouquets,Haiti|Lake%20Peligre,Haiti|Hinche,Haiti|Pignon,Haiti|Potier,Haiti|Montrouis,Haiti&zoom=6"/>
-  		<img src="https://maps.google.com/maps/api/staticmap?sensor=false&size=220x220&maptype=hybrid&markers=size:small|7.0878721,171.3725507|7.1243335,171.3504243|7.1431759,171.0322368"/>
-		</div>
-		<p>Skills: Python, HTML / CSS / JavaScript, Linux, OpenStreetMap, i18n/l10n</p>
+ul.floater {
+  float: right;
+  background: #fff;
+  padding: 28px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
 
-    <div class="clearfix"></div>
+ul li {
+  margin-bottom: 6px;
+}
+    </style>
+  </head>
+  <body>
+    <div id="body">
+      <h1>Nick Doiron</h1>
+      <ul class="floater">
+        <li>
+          <a href="https://mapmeld.com/NicholasDoironCV.pdf">Download CV</a>
+        </li>
+        <li>
+          <a href="https://github.com/mapmeld">GitHub</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/mapmeld">Twitter</a>
+        </li>
+      </ul>
+      <br/>
+      <br/>
 
-<!--
-		<h2>GIS Mapping</h2>
-    <div class="expimage">
-      <img src="/pics/DriveTimes.png"/>
-    </div>
-		<p>As an intern in Esri's Applications Prototype Lab, I developed social media aggregation and analysis tools, a national map written in Cherokee, and HTML multimedia mash-ups based on Esri's ArcGIS, ArcGIS Server, and JavaScript APIs.</p>
-		<p>I presented my work at the Esri UC in 2011 and 2012.</p>
-		<p>Skills: ArcGIS, Python scripts, HTML5 / CSS / JavaScript, Leaflet, automated transliteration and translation</p>
-    <div class="clearfix"></div>
-  -->
+      <h2>Developing our world</h2>
+      <p>My first real-world coding jobs were with <a href="http://one.laptop.org/about/mission">One Laptop per Child</a> in Uganda, Uruguay, and Haiti.
+        Though we'd make changes
+        <a href="https://medium.com/@mapmeld/if-one-laptop-per-child-started-today-80d105fef1bb">
+          if it were started today
+        </a>, at the time it was cutting edge, a learning experience, and deeply rewarding.
+        In late 2012 / early 2013 I ran an OLPC teacher training program in the Marshall Islands.
+      </p>
+      <p>In 2015 I developed eBook-authoring software which won a finalist grant from the <a href="https://www.omnicompete.com/enabling_writers.html">USAID Enabling Writers competition</a>.</p>
+      <p>Recently I'm interested in emerging approaches to microfinance and money transfers, such as Islamic finance,
+        smart contract languages, and bridges between mobile carrier wallets and cryptocurrencies.
+      </p>
 
-		<h2>Open Source</h2>
-    <h4>Most of what I do is open source and open data. This includes my work for Code for America, OLPC, and The Asia Foundation, down to joke side projects like <a href="https://github.com/mapmeld/gitjk">gitjk</a> and <a href="https://github.com/mapmeld/profanity65">profanity65</a>.</h4>
-		<h4>Here are some of my pull requests to others' GitHub projects:</h4>
-		<ul class="pulls">
-		  <li><a href="https://github.com/wikimedia/jquery.ime/pull/154">Marshallese language input</a> for Wikimedia's jQuery.IME (JS)</li>
-		  <li><a href="https://github.com/openpgpjs/openpgpjs/pull/232">Simplify API</a> for OpenPGP.js (JS)</li>
-		  <li><a href="https://github.com/globaleaks/GLClient/pull/108">Mobile-responsive CSS</a> for GlobaLeaks (CSS)</li>
-		  <li><a href="https://github.com/miguelfreitas/twister-html/pull/29">Multiple language internationalization</a> for distributed messaging app Twister (JS)</li>
-      <li><a href="https://github.com/jashkenas/coffeescript/pull/3802">Patching a bug</a> in the CoffeeScript interpreter (CoffeeScript)</li>
-      <li><a href="https://github.com/Rabbit-Converter/Rabbit-Python/pull/1">Porting a Burmese language library</a> to Python (Python)</li>
-      <li><a href="https://github.com/thecartercenter/elmo/pull/131">Right-to-left language support</a> for the Carter Center election-monitoring app (CSS)</li>
-      <li><a href="https://github.com/hotosm/HDM-CartoCSS/pull/254">Ferry routes</a> on Humanitarian OpenStreetMap layer (CartoCSS)</li>
+      <h2>The best technology <small>writes the future of your community</small></h2>
+      <p>When I joined Code for America in 2012, no one was sure what <i>civic hacking</i> meant. I received the Key to the City of Macon, GA
+        and <a href="http://www.knightfoundation.org/blogs/knightblog/2012/10/16/first-ever-civic-data-challenge-success/">
+          won First Place
+        </a> in the 2012 Civic Data Challenge. I've continued to
+      explore civic tech at the City of Boston (2013), Asia Foundation (2015-2016), and "Gerrymandering Summer School" (MGGG 2017).</p>
+      <p>Some of my most impactful team projects allowed people to plant sparkly trees on Google StreetView,
+        see a 'Rap Genius' explanation of their district borders,
+        or look up their local candidates and polling place in Myanmar's 2015 election.</p>
 
-		</ul>
+      <h2>Live free, travel continuously</h2>
+      <p>I have been a digital nomad since 2014, staying in homes from Iceland to Myanmar to Mongolia.
+        <a href="https://qz.com/643181/the-life-of-a-modern-day-nomad-who-hops-from-airbnb-to-airbnb-every-few-weeks/">There's an article about it</a>.
+      </p>
+      <p>
+        Work-life balance: > 50% of that time has been in New York City and San Francisco while working full-time. Lots of neighborhoods to explore!
+      </p>
+      <p>
+        Some travel blogs:
+          <a href="https://medium.com/@mapmeld/a-trip-to-nuuk-greenland-6a9ac80314da">visiting Greenland</a> and <a href="https://medium.com/@mapmeld/svalbard-in-photos-and-fears-3f57ac7d0e3c">Svalbard</a>,
+          <a href="https://medium.com/@mapmeld/conclusions-from-mapping-the-maldives-79666db4fc8f">mapping the Maldives</a>,
+          <a href="https://medium.com/@mapmeld/traveling-across-japan-97769b9f5ad7">Japan travel tips</a>, and
+          <a href="https://medium.com/@mapmeld/a-castle-with-our-name-on-it-2a17007fe08f">finding the original Chateau d'Oiron</a> (with a crocodile!).
+      </p>
 
-		<h2>Cartography</h2>
-		<h4>Visual and technical</h4>
+      <hr/>
 
-		<h3>
-      <a href="http://majurojs.org">MajuroJS</a>
-      - custom neighborhood maps. Stores 3.7MM buildings in 21 cities.
-    </h3>
-		<img src="/pics/timelinepic.png"/>
+      <p>this is where we get into technical details:</p>
 
-		<h3>
-      <a href="https://github.com/mapmeld/moon-phase#moon-phase">Moon Map</a>
-      - a web map only readable outdoors, at night, during a full moon
-    </h3>
-		<img src="/pics/moonmap.png"/>
+      <hr/>
 
-		<h3>
-      <a href="http://a.tiles.mapbox.com/v3/mapmeld.boston-greenery/page.html#14/42.3537/-71.0661">Boston Greenery</a>
-      - custom Boston basemap
-    </h3>
-		<img src="/pics/bostongreen.jpg"/>
+      <h2>Open Source Hacker</h2>
 
-		<h3>
-      <a href="http://thecreatorsproject.vice.com/blog/explore-a-van-gogh-styled-google-maps-remix">Van Gogh Map</a>
-      - powered by MapBox's WebGL API
-    </h3>
-		<img src="/pics/vangogh.jpg"/>
+      <h3>Cryptography</h3>
+      <ul>
+        <li><a href="https://github.com/openpgpjs/openpgpjs/pull/232">Improved functions of OpenPGP.js</a> to fix a common developer error</li>
+        <li><a href="https://gist.github.com/mapmeld/a9bcac46d1f486f81664814a799e5897">OverEncrypt</a> guide to additional TLS settings for Let's Encrypt</li>
+        <li><a href="https://annealmail.github.io/">AnnealMail</a> - an outdated fork of Enigmail plugin for Thunderbird, using CodeCrypt's post-quantum encryption tool</li>
+      </ul>
 
-		<h3>
-      <a href="http://olpcmap.net">olpcMAP</a>
-      - school and volunteer map hosted on Google App Engine
-    </h3>
-		<img src="/pics/olpcmap.png"/>
+      <h3>Quantum Computing</h3>
+      <ul>
+        <li><a href="https://github.com/mapmeld/jsquil">jsQuil</a> - a JavaScript SDK for Rigetti Computing's quantum assembly language</li>
+        <li><a href="https://github.com/ProjectQ-Framework/ProjectQ/pull/250">Project Q Framework</a> - adding Rigetti Computing backend to platform-agnostic Python library for quantum computing</li>
+      </ul>
 
-		<h3>
-      <a href="http://codeforamerica.org/2012/11/14/demolition-hotspots-smarter-data/">DemoDexter</a>
-      - visualizations with OpenStreetMap, Neo4j, and TileMill
-    </h3>
-		<a href="http://tiles.mapbox.com/mapmeld/map/BARTChoice">
-			<img src="/pics/networkmap.png"/>
-		</a>
+      <h3>Unicode and internationalization / localization</h3>
+      <p>You couldn't use a computer if it displayed your language as little blocks. Open source developers
+        have an opportunity to set the gold standard in supporting the world's languages and being open to accept
+        new translations.</p>
+      <ul>
+        <li><a href="https://medium.com/metamask/how-bounties-translated-metamask-28179c5dabd0">Enabling i18n in MetaMask</a> (cryptocurrency wallet browser extension) and Twister (decentralized Twitter app)</li>
+        <li><a href="https://www.openstreetmap.org/user/mapmeld/diary/39466">A tool to re-label Nepalese cities on OpenStreetMap</a> with their original Nepali names</li>
+        <li><a href="https://medium.com/@mapmeld/esperanto-nlp-part-3-correcting-grammar-6d34f93bded1">Exploratory work on Esperanto NLP</a> with a TensorFlow LSTM model</li>
+        <li>Right-to-left language support (Arabic, Dhivehi) and commissioned translations for
+          OpenStreetMap, StreetMix, and Principles of Chaos Engineering</li>
+        <li>An offline Haitian Kreyol Dictionary for OLPC with auto-complete</li>
+        <li>Marshallese alphabet support in WikiMedia's jQuery IME</li>
+        <li>
+          <a href="https://github.com/mapmeld/circular-arabic">Circular Arabic</a>
+        </li>
+        <li>
+          <a href="https://medium.com/@mapmeld/crosswords-in-burmese-f672ae583649">Burmese Crossword Puzzles</a>
+          plus <a href="https://gist.github.com/mapmeld/4d1e5ebb8f68b96921d1">JavaScript libraries</a>:
+          sorting, fuzzy name matching, and Unicode/Zawgyi/WinResearcher encodings
+        </li>
+      </ul>
 
-		<h2>Taking on Hard Problems</h2>
-		<h4>Open source projects with impact</h4>
-    <div class="halfimage">
-  		<img src="/pics/complexhaiti.JPG"/>
-      <img src="/pics/ejit-boat.jpg"/>
-    </div>
-    <div class="halfimage">
-      <img src="/pics/mountaineers.jpg"/>
-  		<img src="/pics/ejit-class.jpg"/>
-    </div>
-    <div class="clearfix"></div>
+      <h3>Mapping</h3>
+      <p>Lots of maps:
 
-    <h2>Contact Me</h2>
-    <p>
-      <a href="mailto:ndoiron@mapmeld.com">E-mail me</a> with questions, comments, concerns of any kind.
+      <ul>
+        <li>Created homomorphic encryption / geo-fence app</li>
+        <li>Fixed empty-table bug in Shapefile JS</li>
+      </ul>
+
+      <strong>Mote-0-Bike</strong> - sync'd map animation and sensor data
+      <br/>
+      <br/>
+      <img src="https://mapmeld.com/pics/mote0bike.png"/>
+      <br/>
+      <br/>
+
+      <strong>MajuroJS</strong> - custom neighborhood maps - stored 3.7MM buildings from 21 cities in MongoDB
+      <br/>
+      <br/>
+      <img src="https://mapmeld.com/pics/timelinepic.png"/>
+      <br/>
+      <br/>
+
+      <strong>Boston Greenery</strong> - custom Boston basemap using CartoCSS
+      <br/>
+      <br/>
+      <img src="https://mapmeld.com/pics/bostongreen.jpg"/>
+      <br/>
+      <br/>
+
+      <strong>Van Gogh Map</strong> - powered by MapBox's WebGL API - now with <a href="http://art.georeactor.com/">DIY version</a>
+      <br/>
+      <br/>
+      <img src="https://mapmeld.com/pics/vangogh.jpg"/>
+      <br/>
+      <br/>
+
+
+      </p>
+
+      <h2>Conferences &amp; Mentoring</h2>
+      <p>Upcoming: IAEA Nuclear Safeguards Summit, PyCon Zimbabwe, maybe your event or class?</p>
+      <p>In recent years I have been trying to speak at more conferences and reach out to people in more parts of the world
+        and in more industries beyond the web and tech startups.
+        I have spoken at JSConf Iceland, NodeFest Japan, PyCaribbean, the Next Economy Summit, DEFCON's Crypto &amp; Privacy Village,
+        the Unicode Conference, Ignite events, and meetups.</p>
+      <p>I have some entry-level experience with mentoring fellows in Coding it Forward and encouraging friendly newbies to apply
+        to get started in their own GitHub pull requests and conference talks.
+      </p>
+      <p>
+      One way which I can likely help is by answering questions. Remember, I can only answer if you ask!  Send tech
+      questions <a href="mailto:ndoiron@mapmeld.com">by email</a> or <a href="https://twitter.com/mapmeld">Twitter</a>!
     </p>
-    <p>
-      I'm also on Twitter as @mapmeld
-    </p>
-<!--
-		<p>I have worked in some unusual places, but I always met people there who were just as passionate about technology as I was.</p>
-		<p>My mission is to support them - by interviewing users, mapping new territory, processing data, and creating code that ties it all together.</p>
-		<p>I believe in open source education, open data government, and collaborative maps of the world and of the moment. One Laptop per Child and Code for America are a mix of idealists and pragmatists who got there early. It has been great to work in an environment where we cannot predict the future, but help map it out every day.</p>
--->
-	</body>
+
+      <h2>Project Shout-outs</h2>
+
+      <strong>Next City</strong>
+      "<a href="https://nextcity.org/daily/entry/transit-future-is-a-construction-industry-dream-but-should-it-be-chicagos">Transit Future Is a Construction Industry Dream, But Should It Be Chicago’s?</a>"
+       - Apr 2014
+
+      <br/><br/>
+
+      <strong>Vice Creators Project</strong>
+      "<a href="https://creators.vice.com/en_us/article/kbnwpw/explore-a-van-gogh-styled-google-maps-remix">
+        Explore a Van Gogh-Styled Map
+      </a>" - Aug 2014
+
+      <br/><br/>
+
+      <strong>Praise from SouthieBikes</strong> on a City of Boston project (<a href="https://github.com/CityOfBoston/bike-plan">archived here</a>)
+
+       <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bask in the glory that is the Boston Bike Network Plan! Best interactive map ever. <a href="http://t.co/d5Xstcd36T">http://t.co/d5Xstcd36T</a></p>&mdash; SouthieBikes (@SouthieBikes) <a href="https://twitter.com/SouthieBikes/status/387952821363937281?ref_src=twsrc%5Etfw">October 9, 2013</a></blockquote>
+
+       <br/><br/>
+
+       <strong>Shout-out from OpenStreetMap iD maintainer</strong> on adding Arabic RTL layout
+
+       <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to merge support for right-to-left display into iD today - thanks <a href="https://twitter.com/mapmeld?ref_src=twsrc%5Etfw">@mapmeld</a> for your work on this! 🙇 <a href="https://t.co/vpQblB9PwV">https://t.co/vpQblB9PwV</a> <a href="https://t.co/pC2l8Qorn6">pic.twitter.com/pC2l8Qorn6</a></p>&mdash; Bryan Housel (@bhousel) <a href="https://twitter.com/bhousel/status/784801455404351493?ref_src=twsrc%5Etfw">October 8, 2016</a></blockquote>
+
+       <br/><br/>
+
+       <strong>Praise from Amazon CTO Werner Vogels</strong> on <a href="https://fortran.io">Fortran.IO</a>:
+
+       <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I *must* resist - &quot;Fortran.io finally, a Fortran Web Framework&quot; by <a href="https://twitter.com/mapmeld?ref_src=twsrc%5Etfw">@mapmeld</a> <a href="https://t.co/tXodGsS0Dx">https://t.co/tXodGsS0Dx</a> <a href="https://t.co/Ft8OwF7eYC">pic.twitter.com/Ft8OwF7eYC</a></p>&mdash; Werner Vogels (@Werner) <a href="https://twitter.com/Werner/status/812680667150614528?ref_src=twsrc%5Etfw">December 24, 2016</a></blockquote>
+
+       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </div>
+  </body>
 </html>
